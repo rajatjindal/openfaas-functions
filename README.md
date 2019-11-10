@@ -16,3 +16,5 @@ Some of the ready to use samples of OpenFaaS Functions. Feel free to give it a t
 - **Give it a try:**  
 [Resize image to dimension 200x200](https://tarunmangukiya.o6s.io/image-resize?height=200&width=200&name=Silver%20Iphone%20Beside%20Book%20Under%20Cup%20Beside%20Silver%20Macbook&url=https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg)  
 [Resize and download image](https://tarunmangukiya.o6s.io/image-resize?download=1&height=200&width=200&name=Silver%20Iphone%20Beside%20Book%20Under%20Cup%20Beside%20Silver%20Macbook&url=https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg)
+
+trigger build
